@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giddy\\source\\repos\\Styleit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\utils\\impl\\jwtutilsimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\utils\\impl\\jwtutilsimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\data\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\data\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\services\\impl\\appuserserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\services\\impl\\appuserserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\services\\appuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\data\\response\\basicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\data\\response\\basicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\repositories\\impl\\appuserrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\repositories\\impl\\appuserrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\repositories\\appuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\repositories\\appuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\utils\\impl\\emailsendimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\utils\\impl\\emailsendimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\utils\\emailsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\utils\\emailsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\data\\request\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\data\\request\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Migrations\\20240316113408_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styleit\\Migrations\\20240316113408_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Migrations\\20240316111715_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Styleit\\Migrations\\20240316111715_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|c:\\users\\giddy\\source\\repos\\styleit\\styleit\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461DF9D2-A302-4EAB-BBB8-4F9D8CBBB7E7}|Styleit\\Styleit.csproj|solutionrelative:styleit\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtUtilsImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\Impl\\JwtUtilsImpl.cs",
+              "RelativeDocumentMoniker": "Styleit\\Utils\\Impl\\JwtUtilsImpl.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\Impl\\JwtUtilsImpl.cs",
+              "RelativeToolTip": "Styleit\\Utils\\Impl\\JwtUtilsImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:17:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Styleit\\Utils\\JwtUtils.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\JwtUtils.cs",
+              "RelativeToolTip": "Styleit\\Utils\\JwtUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:17:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Data\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Styleit\\Data\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Data\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "Styleit\\Data\\Request\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:37:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUserServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Services\\impl\\AppUserServiceImpl.cs",
+              "RelativeDocumentMoniker": "Styleit\\Services\\impl\\AppUserServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Services\\impl\\AppUserServiceImpl.cs",
+              "RelativeToolTip": "Styleit\\Services\\impl\\AppUserServiceImpl.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:46:45.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Repositories\\AppUserRepo.cs",
+              "RelativeDocumentMoniker": "Styleit\\Repositories\\AppUserRepo.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Repositories\\AppUserRepo.cs",
+              "RelativeToolTip": "Styleit\\Repositories\\AppUserRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:44:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Services\\AppUserService.cs",
+              "RelativeDocumentMoniker": "Styleit\\Services\\AppUserService.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Services\\AppUserService.cs",
+              "RelativeToolTip": "Styleit\\Services\\AppUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:45:51.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Program.cs",
+              "RelativeDocumentMoniker": "Styleit\\Program.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Program.cs",
+              "RelativeToolTip": "Styleit\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:20:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Styleit\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Styleit\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:52:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "Styleit\\Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "Styleit\\Controllers\\AppUsersController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:37:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUserRepoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Repositories\\impl\\AppUserRepoImpl.cs",
+              "RelativeDocumentMoniker": "Styleit\\Repositories\\impl\\AppUserRepoImpl.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Repositories\\impl\\AppUserRepoImpl.cs",
+              "RelativeToolTip": "Styleit\\Repositories\\impl\\AppUserRepoImpl.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwCsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:44:54.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasicResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Data\\Response\\BasicResponse.cs",
+              "RelativeDocumentMoniker": "Styleit\\Data\\Response\\BasicResponse.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Data\\Response\\BasicResponse.cs",
+              "RelativeToolTip": "Styleit\\Data\\Response\\BasicResponse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:42:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "Styleit\\Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Model\\AppUser.cs",
+              "RelativeToolTip": "Styleit\\Model\\AppUser.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:13:48.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailsendImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\Impl\\EmailsendImpl.cs",
+              "RelativeDocumentMoniker": "Styleit\\Utils\\Impl\\EmailsendImpl.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\Impl\\EmailsendImpl.cs",
+              "RelativeToolTip": "Styleit\\Utils\\Impl\\EmailsendImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:13:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Emailsend.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\Emailsend.cs",
+              "RelativeDocumentMoniker": "Styleit\\Utils\\Emailsend.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Utils\\Emailsend.cs",
+              "RelativeToolTip": "Styleit\\Utils\\Emailsend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:08:51.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Data\\Request\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "Styleit\\Data\\Request\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Data\\Request\\RegistrationRequest.cs",
+              "RelativeToolTip": "Styleit\\Data\\Request\\RegistrationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:35:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\appsettings.json",
+              "RelativeDocumentMoniker": "Styleit\\appsettings.json",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\appsettings.json",
+              "RelativeToolTip": "Styleit\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T10:24:00.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240316113408_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Migrations\\20240316113408_First Migration.cs",
+              "RelativeDocumentMoniker": "Styleit\\Migrations\\20240316113408_First Migration.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Migrations\\20240316113408_First Migration.cs",
+              "RelativeToolTip": "Styleit\\Migrations\\20240316113408_First Migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:34:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240316111715_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Migrations\\20240316111715_First Migration.cs",
+              "RelativeDocumentMoniker": "Styleit\\Migrations\\20240316111715_First Migration.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Migrations\\20240316111715_First Migration.cs",
+              "RelativeToolTip": "Styleit\\Migrations\\20240316111715_First Migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:17:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "Styleit\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\Model\\Role.cs",
+              "RelativeToolTip": "Styleit\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:33:22.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Styleit\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Giddy\\source\\repos\\Styleit\\Styleit\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Styleit\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:59:31.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
